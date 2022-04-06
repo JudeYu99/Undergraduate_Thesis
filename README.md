@@ -1,2 +1,2 @@
-# Undergraduate_Thesis
-Collection of undergraduate thesis materials.
+# Undergraduate Thesis Materials
+This repository is delicated for a collection of undergraduate thesis realated materials.
